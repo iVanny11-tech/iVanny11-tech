@@ -16,5 +16,5 @@ Soon I’ll add projects like:
 - CI/CD pipeline with security scanning
 
 ## Connect with me
-- LinkedIn: [your-linkedin](http://linkedin.com/in/ivan-yamoah-boakye-70594523a)
+- LinkedIn:(http://linkedin.com/in/ivan-yamoah-boakye-70594523a)
 - Email: yivan56@gmail.com
