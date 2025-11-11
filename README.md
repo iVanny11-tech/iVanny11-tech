@@ -4,9 +4,12 @@ I'm starting my journey into **Cloud Architecture & Security**, focusing on Linu
 This space will document my labs, learning projects, and hands-on experiments.
 
 ## What I'm working on
-- Studying for **CompTIA Security+**
-- Building foundational **Linux skills**
-- Learning **Git, GitHub**, and version control best practices
+- Studying for AWS SOLUTION ARCHITECH ASSOCIATE 
+- TERRAFORM
+- DOCKER
+  
+- 
+- 
 
 ## What's coming next
 Soon I’ll add projects like:
