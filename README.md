@@ -167,7 +167,7 @@ Built a hybrid SOC lab using VirtualBox (Kali + Windows 11 ARM64), Azure Arc, Sy
 
 <div align="center">
 
-**Targeting:** SOC Analyst &nbsp;·&nbsp; Cloud Security Engineer &nbsp;·&nbsp; SecOps Roles
+**Targeting:** SOC Analyst /IT SUPPORT &nbsp;·&nbsp; Cloud Security Engineer &nbsp;·&nbsp; SecOps Roles
 
 Toronto, Ontario — Remote & Hybrid Welcome
 
