@@ -50,11 +50,27 @@ Built a hybrid SOC lab using VirtualBox (Kali + Windows 11 ARM64), Azure Arc, Sy
 
 ---
 
+<h3><a href="https://github.com/iVanny11-tech/soc-tier1-alert-triage-phishing-automation">02 — Project BEACON: Tier 1 SOC Analyst Simulation</a></h3>
+
+**Alert Triage & Phishing Investigation | Microsoft Sentinel + Jira Service Management + Python Automation**
+
+Built a single-session Tier 1 SOC analyst simulation covering alert triage, escalation, and phishing investigation on the same Azure backend as Project ATLAS, plus a custom Python SOAR-style automation pipeline.
+
+- Triaged 5 alert types (port scans, RDP brute-force burst, benign/encoded PowerShell) against a written playbook with a documented decision tree
+- Escalated 2 true positives with SHA256 hash verification (VirusTotal) and event-timeline reconstruction from Windows Security logs
+- Investigated 2 phishing simulations (Credential Harvest, Link in Attachment) via Defender Attack Simulation Training without detonating payloads
+- Built a custom Python IOC enrichment pipeline (VirusTotal + AbuseIPDB APIs, weighted risk scoring) — a lightweight SOAR playbook prototype
+- Diagnosed a broken Azure Monitor Agent telemetry pipeline, distinguishing Arc connectivity from telemetry shipping as independently-failing systems
+
+**Tools:** Microsoft Sentinel | Jira Service Management | KQL | PowerShell | Python | VirusTotal API | AbuseIPDB API | Defender Attack Simulation Training
+
+---
+
 ### Phase 2 — Fortinet Network Security
 
 ---
 
-<h3><a href="https://github.com/iVanny11-tech/fortinet-security-labs">02 — FortiGate IPS Lab</a></h3>
+<h3><a href="https://github.com/iVanny11-tech/fortinet-security-labs">03 — FortiGate IPS Lab</a></h3>
 
 **Threat Detection & Prevention | FortiGate + FortiAnalyzer**
 
@@ -68,7 +84,7 @@ Built a hybrid SOC lab using VirtualBox (Kali + Windows 11 ARM64), Azure Arc, Sy
 
 ---
 
-<h3><a href="https://github.com/iVanny11-tech/fortianalyzer-log-management-fortiview">03 — FortiAnalyzer Log Management & FortiView</a></h3>
+<h3><a href="https://github.com/iVanny11-tech/fortianalyzer-log-management-fortiview">04 — FortiAnalyzer Log Management & FortiView</a></h3>
 
 **Log Analysis & Threat Investigation | FortiAnalyzer + FortiView**
 
@@ -87,7 +103,7 @@ Built a hybrid SOC lab using VirtualBox (Kali + Windows 11 ARM64), Azure Arc, Sy
 
 ---
 
-<h3><a href="https://github.com/iVanny11-tech/aws-ec2-nginx-dns-project">04 — AWS EC2 Nginx + DNS</a></h3>
+<h3><a href="https://github.com/iVanny11-tech/aws-ec2-nginx-dns-project">05 — AWS EC2 Nginx + DNS</a></h3>
 
 **Web Server Deployment | AWS EC2 + Route 53**
 
@@ -98,7 +114,7 @@ Built a hybrid SOC lab using VirtualBox (Kali + Windows 11 ARM64), Azure Arc, Sy
 
 ---
 
-<h3><a href="https://github.com/iVanny11-tech/AWS-TIER-2-WEB-APP">05 — AWS Web Tier 2 Application</a></h3>
+<h3><a href="https://github.com/iVanny11-tech/AWS-TIER-2-WEB-APP">06 — AWS Web Tier 2 Application</a></h3>
 
 **Multi-Tier Architecture | AWS**
 
@@ -113,7 +129,7 @@ Built a hybrid SOC lab using VirtualBox (Kali + Windows 11 ARM64), Azure Arc, Sy
 
 ---
 
-### 06 — Splunk SIEM Home Lab *(Coming Soon)*
+### 07 — Splunk SIEM Home Lab *(Coming Soon)*
 
 **Security Monitoring | Splunk + SPL**
 
@@ -125,7 +141,7 @@ Built a hybrid SOC lab using VirtualBox (Kali + Windows 11 ARM64), Azure Arc, Sy
 
 ---
 
-### 07 — Wazuh SIEM & EDR Lab *(Coming Soon)*
+### 08 — Wazuh SIEM & EDR Lab *(Coming Soon)*
 
 **SIEM + EDR | Wazuh + VirtualBox**
 
