@@ -84,7 +84,7 @@ Built a single-session Tier 1 SOC analyst simulation covering alert triage, esca
 
 ---
 
-<h3><a href="https://github.com/iVanny11-tech/fortianalyzer-log-management-fortiview">03 — FortiAnalyzer Log Management & FortiView</a></h3>
+<h3><a href="https://github.com/iVanny11-tech/fortianalyzer-log-management-fortiview">04 — FortiAnalyzer Log Management & FortiView</a></h3>
 
 **Log Analysis & Threat Investigation | FortiAnalyzer + FortiView**
 
@@ -99,7 +99,7 @@ Built a single-session Tier 1 SOC analyst simulation covering alert triage, esca
 
 ---
 
-### 04 — Enterprise Active Directory Infrastructure: Deployment, Administration & Incident Response
+### 05 — Enterprise Active Directory Infrastructure: Deployment, Administration & Incident Response
 
 Enterprise AD Deployment & Incident Response | AWS + Windows Server 2022 + Active Directory Domain Services
 
@@ -118,11 +118,11 @@ Built and operated a full enterprise Active Directory environment on AWS from th
 
 
 
-### Phase 5 — Cloud & DevOps Security
+### Phase 6 — Cloud & DevOps Security
 
 ---
 
-<h3><a href="https://github.com/iVanny11-tech/aws-ec2-nginx-dns-project">05 — AWS EC2 Nginx + DNS</a></h3>
+<h3><a href="https://github.com/iVanny11-tech/aws-ec2-nginx-dns-project">07 — AWS EC2 Nginx + DNS</a></h3>
 
 **Web Server Deployment | AWS EC2 + Route 53**
 
@@ -144,7 +144,7 @@ Built and operated a full enterprise Active Directory environment on AWS from th
 
 ---
 
-### Phase 7 — SOC Analyst & SIEM (In Progress)
+### Phase 8 — SOC Analyst & SIEM (In Progress)
 
 ---
 
