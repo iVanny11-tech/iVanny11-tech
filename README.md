@@ -17,7 +17,7 @@
 
 ## Quick Stats
 
-- 6+ hands-on security labs documented end-to-end with screenshots
+- 7+ hands-on security labs documented end-to-end with screenshots
 - Built a full Microsoft SOC simulation — Sentinel · Defender XDR · Entra ID Protection · Azure Arc
 - Fortinet NSE 4 certified | Pursuing NSE 5 and SC-200
 - Hands-on with FortiGate, FortiAnalyzer, Microsoft Sentinel, Defender XDR, and Azure
@@ -99,7 +99,26 @@ Built a single-session Tier 1 SOC analyst simulation covering alert triage, esca
 
 ---
 
-### Phase 3 — Cloud & DevOps Security
+### 03 — Enterprise Active Directory Infrastructure: Deployment, Administration & Incident Response
+
+Enterprise AD Deployment & Incident Response | AWS + Windows Server 2022 + Active Directory Domain Services
+
+Built and operated a full enterprise Active Directory environment on AWS from the ground up — cloud infrastructure, domain services, departmental OU/user/group design, GPO security hardening, and a Windows client domain-join that surfaced three real, unplanned incidents diagnosed and resolved live.
+
+- Provisioned AWS VPC, subnets, security groups, and EC2-hosted domain controller (DC01) running Windows Server 2022 + AD DS
+- Designed 8 Organizational Units and departmental structure across IT, HR, Finance, and Sales, with security groups, NTFS permissions, and SMB file shares scoped per department
+- Hardened the environment via Group Policy — password policy, account lockout policy, screen lock timeout, USB restriction, update deferral, and automated drive mapping
+- Ran a simulated help-desk ticket queue via PowerShell — account unlocks, password resets, onboarding, and offboarding
+- Diagnosed and resolved 3 real incidents: an RDP security-group misconfiguration, an AWS Systems Manager limitation on domain controllers, and a cascading DNS → security-group → account-lockout failure during a client domain-join that also cut off admin access to the DC itself
+- Regained locked-out domain controller access via AWS's key-pair-based local Administrator credential recovery, independent of the domain account
+
+**Tools:** AWS (EC2, VPC, Security Groups, Systems Manager, IAM) | Windows Server 2022 | Active Directory Domain Services | Group Policy Management | PowerShell | DNS | NTFS/SMB
+
+**Repo:** [enterprise-AD-infrastructure](https://github.com/iVanny11-tech/enterprise-AD-infrastructure)
+
+
+
+### Phase 4 — Cloud & DevOps Security
 
 ---
 
@@ -125,11 +144,11 @@ Built a single-session Tier 1 SOC analyst simulation covering alert triage, esca
 
 ---
 
-### Phase 4 — SOC Analyst & SIEM (In Progress)
+### Phase 5 — SOC Analyst & SIEM (In Progress)
 
 ---
 
-### 07 — Splunk SIEM Home Lab *(Coming Soon)*
+### 06 — Splunk SIEM Home Lab *(Coming Soon)*
 
 **Security Monitoring | Splunk + SPL**
 
@@ -141,7 +160,7 @@ Built a single-session Tier 1 SOC analyst simulation covering alert triage, esca
 
 ---
 
-### 08 — Wazuh SIEM & EDR Lab *(Coming Soon)*
+### 07 — Wazuh SIEM & EDR Lab *(Coming Soon)*
 
 **SIEM + EDR | Wazuh + VirtualBox**
 
