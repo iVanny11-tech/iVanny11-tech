@@ -21,8 +21,8 @@
 - Built a full Microsoft SOC simulation — Sentinel · Defender XDR · Entra ID Protection · Azure Arc
 - Fortinet NSE 4 certified | Pursuing NSE 5 and SC-200
 - Hands-on with FortiGate, FortiAnalyzer, Microsoft Sentinel, Defender XDR, and Azure
+- Enterprise Active Directory Infrastructure: Deployment, Administration & Incident Response
 - Based in Toronto — open to remote, hybrid, and onsite roles across the GTA
-
 ---
 
 ## Project Portfolio
