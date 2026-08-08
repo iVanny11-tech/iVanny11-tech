@@ -84,7 +84,7 @@ Built a single-session Tier 1 SOC analyst simulation covering alert triage, esca
 
 ---
 
-<h3><a href="https://github.com/iVanny11-tech/fortianalyzer-log-management-fortiview">04 — FortiAnalyzer Log Management & FortiView</a></h3>
+<h3><a href="https://github.com/iVanny11-tech/fortianalyzer-log-management-fortiview">03 — FortiAnalyzer Log Management & FortiView</a></h3>
 
 **Log Analysis & Threat Investigation | FortiAnalyzer + FortiView**
 
@@ -99,7 +99,7 @@ Built a single-session Tier 1 SOC analyst simulation covering alert triage, esca
 
 ---
 
-### 03 — Enterprise Active Directory Infrastructure: Deployment, Administration & Incident Response
+### 04 — Enterprise Active Directory Infrastructure: Deployment, Administration & Incident Response
 
 Enterprise AD Deployment & Incident Response | AWS + Windows Server 2022 + Active Directory Domain Services
 
@@ -118,7 +118,7 @@ Built and operated a full enterprise Active Directory environment on AWS from th
 
 
 
-### Phase 4 — Cloud & DevOps Security
+### Phase 5 — Cloud & DevOps Security
 
 ---
 
@@ -144,11 +144,11 @@ Built and operated a full enterprise Active Directory environment on AWS from th
 
 ---
 
-### Phase 5 — SOC Analyst & SIEM (In Progress)
+### Phase 7 — SOC Analyst & SIEM (In Progress)
 
 ---
 
-### 06 — Splunk SIEM Home Lab *(Coming Soon)*
+### 08 — Splunk SIEM Home Lab *(Coming Soon)*
 
 **Security Monitoring | Splunk + SPL**
 
@@ -160,7 +160,7 @@ Built and operated a full enterprise Active Directory environment on AWS from th
 
 ---
 
-### 07 — Wazuh SIEM & EDR Lab *(Coming Soon)*
+### 09 — Wazuh SIEM & EDR Lab *(Coming Soon)*
 
 **SIEM + EDR | Wazuh + VirtualBox**
 
